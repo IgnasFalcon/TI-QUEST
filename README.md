@@ -25,11 +25,11 @@ Playing the game:
     [+] Attack
     [F] Food
     [{#}] Woo
-    [ * ] Health
+    [⁎]  Health
     [A] Treasure
     [π] Shop
     [θ] Monster
-    [ * ] Ally
+    [⁎] Ally
     [0] Obstacle
 
 Credit:
