@@ -22,15 +22,15 @@ Playing the game:
     E. You get infinite inventory
     F. You can shop for all items at the same time
   3) KEY:
-    [+]→Attack
-    [F]→Food
-    [{♡}]→Woo
-    [⁎]→Health
-    [A]→Treasure
-    [π]→Shop
-    [θ]→Monster
-    [⁎]→Ally
-    [0]→Obstacle
+    [+]→Attack;
+    [F]→Food;
+    [{♡}]→Woo;
+    [⁎]→Health;
+    [A]→Treasure;
+    [π]→Shop;
+    [θ]→Monster;
+    [⁎]→Ally;
+    [0]→Obstacle;
 
 Credit:
 Freckled Fox (www.youtube.com/@freckledfox) for making the original pen & paper game
