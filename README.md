@@ -7,11 +7,13 @@ How to upload to your calculator:
   2) Open software.
   3) Connect the calculator via a mini usb-b cable.
   4) Drag and drop the TIQUEST.8xp file to connected calculator.
+
 Running the program:
   1) Go to your calculator and press the "PRGM" button.
   2) Scroll down to "TIQUEST" using the arrow buttons.
   3) Press "ENTER".
   4) Press "ENTER" again to run the program.
+
 Playing the game:
   1) Watch https://youtu.be/yzcg7YWqKao?si=P3K1hOXZ8YB4T4Xv to see the original tutorial by Freckled Fox.
   2) Note that this game has some differences.
