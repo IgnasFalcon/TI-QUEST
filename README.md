@@ -18,19 +18,19 @@ Playing the game:
     A. Move your character [x] using the buttons 8, 4, 2, and 6 on the number pad
     B. Press "clear" to quit
     C. Pixie dust lets you time-travel instead of teleporting
-    D. There is neither a telescope nor love potion in this game
+    D. There is neither a telescope nor a love potion in this game
     E. You get infinite inventory
     F. You can shop for all items at the same time
   3) KEY:
-    [+] Attack
-    [F] Food
-    [{#}] Woo
-    [⁎]  Health
-    [A] Treasure
-    [π] Shop
-    [θ] Monster
-    [⁎] Ally
-    [0] Obstacle
+    [+]→Attack
+    [F]→Food
+    [{♡}]→Woo
+    [⁎]→Health
+    [A]→Treasure
+    [π]→Shop
+    [θ]→Monster
+    [⁎]→Ally
+    [0]→Obstacle
 
 Credit:
 Freckled Fox (www.youtube.com/@freckledfox) for making the original pen & paper game
